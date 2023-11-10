@@ -44,6 +44,7 @@ td {
   max-width: 120px;
   border-radius: 25px;
   margin: 20px;
+  transition: transform .25s;
 }
 .karakter.ef{
   background-color: #96bcc1;
@@ -67,4 +68,5 @@ td {
 .karakter:hover{
   background-color: #c2a3a3;
   filter: drop-shadow(0 0 0.75rem #c2a3a3);
+  transform: scale(1.05);
 }
