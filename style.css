@@ -65,6 +65,12 @@ td {
   background-color: #4f7475;
   filter: drop-shadow(0 0 0.75rem #4f7475);
 }
+.karakter.zzz{
+  width: 120px;
+  height: 120px;
+  background-color: #cbd6e2;
+  filter: drop-shadow(0 0 0.75rem #cbd6e2);
+}
 .karakter:hover{
   background-color: #c2a3a3;
   filter: drop-shadow(0 0 0.75rem #c2a3a3);
