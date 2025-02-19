@@ -7,9 +7,8 @@
     line-height: 150%;
 }
 .warp {
-    max-width: 800px;
-    margin-left: 15px;
-    margin-right: 15px;
+    max-width: 640px;
+    margin: auto;
     margin-top: 15px;
     padding: 15px;
     padding-top: 0px;
@@ -36,6 +35,10 @@ table{
 td {
   text-align: center;
   width: 25%;
+  vertical-align: top;
+}
+.judul {
+  text-align: center;
 }
 .tebal{
   font-weight: bold;
