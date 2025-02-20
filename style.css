@@ -54,8 +54,8 @@ td {
   filter: drop-shadow(0 0 0.75rem #96bcc1);
 }
 .karakter.nj{
-  background-color: #db565d;
-  filter: drop-shadow(0 0 0.75rem #db565d);
+  background-color: #da758d;
+  filter: drop-shadow(0 0 0.75rem #da758d);
 }
 .karakter.hl{
   background-color: #fff29e;
@@ -83,6 +83,12 @@ td {
   height: 120px;
   background-color: #fad454;
   filter: drop-shadow(0 0 0.75rem #fad454);
+}
+.karakter.bd{
+  width: 120px;
+  height: 120px;
+  background-color: #ecb4bc;
+  filter: drop-shadow(0 0 0.75rem #ecb4bc);
 }
 .karakter:hover{
   background-color: #c2a3a3;
