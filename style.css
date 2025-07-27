@@ -1,13 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 .isi {
     background-color: #0f0a0a;
     color: #efefef;
-    font-family:'Inter', sans-serif;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 125%;
 }
 .warp {
-    max-width: 640px;
+    max-width: 720px;
     margin: auto;
     margin-top: 15px;
     padding: 15px;
@@ -36,7 +35,7 @@ td {
   vertical-align: top;
 }
 .judul {
-  text-align: center;
+  text-align: left;
 }
 .tebal{
   font-weight: bold;
@@ -102,5 +101,8 @@ td {
   transform: scale(1.05);
 }
 .source-code{
-font-size: 0.8em;
+  font-size: 0.8em;
+}
+.description{
+  font-size: 0.9em;
 }
